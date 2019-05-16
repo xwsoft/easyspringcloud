@@ -10,4 +10,4 @@ spring:
           uri: https://github.com/xwsoft/easyspringcloud
           username:
           password:
-          basedir: /configmanage
+          search-paths: /config_manage
