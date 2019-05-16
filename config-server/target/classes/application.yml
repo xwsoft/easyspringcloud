@@ -8,6 +8,6 @@ spring:
       server:
         git:
           uri: https://github.com/xwsoft/easyspringcloud
-          username:
-          password:
+          username: xiawensoft@126.com
+          password: xwsoft1984
           basedir: /config_manage
