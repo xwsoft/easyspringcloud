@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-server
+    name: config    #这个名字要和github中配置文件名一致
   cloud:
     config:
       uri: http://localhost:9081/
