@@ -2,12 +2,12 @@ server:
   port: 9081
 spring:
   application:
-    name: springcloud-config-server
+    name: config-server
   cloud:
     config:
       server:
         git:
           uri: https://github.com/xwsoft/easyspringcloud
-          username: xiawensoft@126.com
-          password: xwsoft1984
-          basedir: /config_manage
+          username:
+          password:
+          basedir: /configmanage
