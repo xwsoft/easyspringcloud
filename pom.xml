@@ -11,6 +11,9 @@
     <modules>
         <module>config-server</module>
         <module>config-client</module>
+        <module>eureak-server</module>
+        <module>eureak-client1</module>
+        <module>eureak-client2</module>
     </modules>
 
 

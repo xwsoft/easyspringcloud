@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: eureka-client-1
+eureka:
+  client:
+    healthcheck:
+      enabled: true
+    service-url:
+      defaultZone: http://admin:admin@localhost:8080/eureka/
+  instance:
+    prefer-ip-address: true
